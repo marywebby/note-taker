@@ -42,15 +42,16 @@ res.json(`${req.method} request recieved!`)
       
       dbJSON.push(newNote)
       readAndAppend(newNote, './db/db.json');
-    //   res.json(`Tip added successfully 🤍`);
+      console.log(`Tip added successfully 🤍`);
     } else {
-    //   res.error('Error in adding tip');
+      console.log('Error in adding tip');
     }
 })
 
-app.delete('/api/notes/:id', (req,res) =>
-console.log('Note deleted!')
-)
+// BEGINING OF FIND THE SOLUTION TO THE BONUS CRITERIA, THE DELETE NOTE ASPECT, HAVE NOT FINISHED. 
+// app.delete('/api/notes/:id', (req,res) =>
+// console.log(res) 
+// )
 
 app.listen(PORT, () =>
 console.log(`App is listneing at http://localhost:${PORT}`))
