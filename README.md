@@ -10,8 +10,8 @@ Note Taker
 
 ## Usage
       To begin start by finding your way to the get started button.
-      ![Screen Shot 2023-02-16 at 2 30 53 PM](https://user-images.githubusercontent.com/118230483/219468497-312963fa-41b5-4819-8ca0-04eb3da173a0.png)
-
+      ![Screen Shot 2023-02-16 at 2 30 53 PM](https://user-images.githubusecontent.com/118230483/219469745-d738c669-1f04-4e8e-9be5-01d8986029c9.png)
+      
       Next, you will be able to add in your notes by typing on the header and note content boxes
       ![Screen Shot 2023-02-16 at 2 31 28 PM](https://user-images.githubusercontent.com/118230483/219468644-94efa43f-7c13-46e5-85b3-4b751095c114.png)
 
