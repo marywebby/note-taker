@@ -1,14 +1,14 @@
- # Note Taker 
+Note Taker 
 
-  ## Description
+Description
       My professional note taker is a reliable and easy way to store your notes through out the day. You will be able to create a new note, see previous   notes made, and save them for future usage! 
 
 
-  ## Installation
+Installation
       One should have express.js, node.js, and a functioning command line in which you will launch the application from!
 
 
-  ## Usage
+Usage
       To begin start by finding your way to the get started button.
       ![Screen Shot 2023-02-16 at 2 30 53 PM](https://user-images.githubusercontent.com/118230483/219468497-312963fa-41b5-4819-8ca0-04eb3da173a0.png)
 
@@ -23,14 +23,13 @@
       ![Screen Shot 2023-02-16 at 2 32 46 PM](https://user-images.githubusercontent.com/118230483/219468928-4227bb19-1e1a-4ac8-b1d6-774601761bd7.png)
 
 
-  ## Credits
+Credits
       MSU coding bootcamp 
 
-
-  ## Questions
+Questions
       Github Username: @marywebby
       Github webpage: https://github.com/marywebby
       For any additional inquiries, please email at: marywebby1999@gmail.com 
       
-  ## Deployed application 
+Deployed application 
      https://marywebby-heroku-note-taker.herokuapp.com
